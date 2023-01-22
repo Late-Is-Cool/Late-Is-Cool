@@ -1,5 +1,11 @@
 # hi
 
+im just a dude who uses Microosoft™ Winodows 20 and codes
+
+svelte is based btw
+
+---
+
 socials:
 
 <a href="https://wasteof.money/users/late">![yourbadge](https://img.shields.io/badge/WasteOfMoney-6366f1.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYsAAADFAQMAAACfC0xgAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAZQTFRF////Y2bx5k6orAAAAapJREFUeJzt1kFugzAQBVAjFl76CByFo+GeoFei6kWQegGWLJCnHpvIySb+nggUtfMlEkXyEwHsb4zRaDQajUaj0fyPjERr/OqJAv+ciOYaGTKxIkJCQhjZHomvEZeJkxF/FemO//c08bp3GRny3ZWRUCX9A+lBEmQkTmhapGSvkk5EqBDbQOI64UUgI1uVmFeJQ4lPnzzY5WVdyXQ9GVAyp1vNT2RID7SW8V1JGtUzCYd/U+LrxDHh4ufpOaFkZfLZTlw7sQepCx69srN8AqSSj7XrKFxD+kzq/ZoK8kZmnOxxCuxMoO2lkC6TelmmunyBLDgJcQZvTKC9ohCTCdCvxrxE1hYyxakZD2yvyLtFIUC/5jUiIks8thbClTEmsiCEi+gg7mwyN5IPJnFqOqhfU8N+HWRoIl5C4vpHSbyA70L8eeSHGy8SbHvJb9VMbnsMEHsdCSbvlwKC9GsZ2kp2EemEBOnXMrSVbCJye79Ech1ZZWQisF/L0EayyMiIk/GOLKeSWUYGAsuyDD2feJM7UEA8RpyM3NMGYnFi7wgmNBqNRqPRaDR/O7+UrMDLkwcf8QAAAABJRU5ErkJggg==)</a>
