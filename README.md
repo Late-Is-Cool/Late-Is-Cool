@@ -1,6 +1,6 @@
 # hi
 
-im just a dude who uses Microosoft™ Winodows 20 and codes
+im just a dude who used to use Microosoft™ products and codes
 
 svelte is based btw
 
