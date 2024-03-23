@@ -1,13 +1,25 @@
-# hi
+# hi, im late, welcome to my profile
 
-im just a dude who used to use Microosoft™ products and codes
+i am a person who programs random stuff when i get the time, well i almost always have time but i choose not to spend it on programming.
 
-svelte is based btw
+i (used to) do web development using sveltekit for a fullstack site, tailwindcss for styling, and typescript for other webby stuff.
+
+im currently learning C++ for game development using [raylib](https://www.raylib.com/) and attempt at porting them to funny thingamajigs like the 3DS, Wii, PS Vita, and other homebrewed systems i have in my possession. including systems that i actually dont own but technically do thanks to backwards compatibility with prior said systems (ex. PSP on PS Vita).
+
+i am still in school and im trying my best to survive my remaining years.
+
+i use <img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/a340dbdc-aadb-4860-a108-1d74814130c0" align="center" alt="windows 10"> for development, with WSL of course.
 
 ---
 
 socials:
 
-<a href="https://wasteof.money/users/late">![yourbadge](https://img.shields.io/badge/WasteOfMoney-6366f1.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAYsAAADFAQMAAACfC0xgAAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOxAAADsQBlSsOGwAAAAZQTFRF////Y2bx5k6orAAAAapJREFUeJzt1kFugzAQBVAjFl76CByFo+GeoFei6kWQegGWLJCnHpvIySb+nggUtfMlEkXyEwHsb4zRaDQajUaj0fyPjERr/OqJAv+ciOYaGTKxIkJCQhjZHomvEZeJkxF/FemO//c08bp3GRny3ZWRUCX9A+lBEmQkTmhapGSvkk5EqBDbQOI64UUgI1uVmFeJQ4lPnzzY5WVdyXQ9GVAyp1vNT2RID7SW8V1JGtUzCYd/U+LrxDHh4ufpOaFkZfLZTlw7sQepCx69srN8AqSSj7XrKFxD+kzq/ZoK8kZmnOxxCuxMoO2lkC6TelmmunyBLDgJcQZvTKC9ohCTCdCvxrxE1hYyxakZD2yvyLtFIUC/5jUiIks8thbClTEmsiCEi+gg7mwyN5IPJnFqOqhfU8N+HWRoIl5C4vpHSbyA70L8eeSHGy8SbHvJb9VMbnsMEHsdCSbvlwKC9GsZ2kp2EemEBOnXMrSVbCJye79Ech1ZZWQisF/L0EayyMiIk/GOLKeSWUYGAsuyDD2feJM7UEA8RpyM3NMGYnFi7wgmNBqNRqPRaDR/O7+UrMDLkwcf8QAAAABJRU5ErkJggg==)</a>
-<a href="https://www.youtube.com/channel/UCeazutL1pcKbA24gpGxUkRw">![yourbadge](https://img.shields.io/badge/Youtube-FF0000.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAAZtQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////LHKW/AAAAIl0Uk5TAAkySmR7l6/D0tbg5v3/5OLPxJ9+aEs3CwKq3PD78eGjVwgBbe76mwou62N8/rMWI83tRj3naVj2a8CL9Mf5pdgdbtSw1RBS18oNAzORMKblErb3BEBC3fMMP6kn6dMrhMtU0Pi4SKLZKqCN8rzebOj8Ju+CvRoc41APQTZRhqi+ztq3mXdbQxUcXMG1AAABjUlEQVR4nO3VaTdCQRgH8IckSlfWpBJKpZQlWylSsoaUpbLLvmeXffex3TqiY2bScHjV/+Vz5nfnzvLcC5DO/yQjk5PFzebl5PIFeULma/JF/IJCXlFxSam47B1IxOVSmRwZiUReoaisqo4Kparm++HxqDValtTqUhes0StBWWegIYyxHhoaqQTTZILmFjoib4W2djrCaMCMHkTyWKADLVptnUmICLrQor3b4SQTOfSgRRf09vWTDQzgCMCg3q4mEcwrRAkMuYcJKwI7gbAZGcXePvCQCYyZvD4Mwczu+uyk8QkLctSAmTmBAExOIQTTWwlE4vb6qdYSCE4jgCVSMpnJnsX1EswRiGR+ATNDjCziiXYptIwXDKzgSGAV86QPsobW1jc2MZsSjxW20OL2jpUsmF3Yo+/KH/R+cJ9OhM1wEKIjhxyQHNF9LY9PAE7PaIT6XMneDC7hYuASNkZibXTBE/hT2GqDT+d1ROKX/PJKdX1ze3evkGGaVGj12J22h8en55fXX/0s0/nTvAE3S4Sv+l6Q+wAAAABJRU5ErkJggg==)</a>
-<a href="https://discord.com/users/312042645453144064">![yourbadge](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAMAAAAp4XiDAAAAAXNSR0IB2cksfwAAAAlwSFlzAAALEwAACxMBAJqcGAAAANtQTFRFAAAA////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////3q0SpgAAAEl0Uk5TAAUXMAgDKx8KSJTM4/xZ8uvWo1IUe/D/xzOAJL310fouhcJMirhXD1xHmT1UuuWWYQ3ZreBmnuHmGnpNyW44KajbxHicj79CdYNvuP4AAAGlSURBVHic7ZXZQoJAFIYhtTFJBRdGNFwo3GgzxK0yWqze/4mSYRZgCOimuvC/gfPPfMzMmeNREA76fYlHuTyLCsegmDy/eFKSTssVZuSqslKrf081mir01PJgTWvsHyVkwHYnFtDOdIjV7eEXhVpSPWYJBSZK7XPIIJmA0BAjBNDTEHgeQS5SCWiGl+nI6Uhv+NNF9qcJEqP0k3ga/yRd/DIZToIEKDHJSMABRaZZkRbJs9hlptq2Lq9YqIz740AlqaQ8Oyr1rtFub8o4NLyyLxqMIcVZZ9YtMmZ3fqRrKNTYFZDDsBTLIOSQpLboBBM7NnXmDd9x/HCKJyzohCV2JOqs1r6zCX8zcBj+Iu+RkX/A+/QTFKxZjDADdlFneCQZW0T2FYfAubOd1FhoW0+WDZMRTpHyy4JE9EeIHPvD0Zcc4pLmCE1t6D6H568Mp18iQfmFFP+Qflx3tyOraeN6UMzBZA2mbPR1JhCNNtTeCBFVyL1W30BoAOz8CieFyZR/RwM9N1eIjIgfqPNzi+DOIFVm/Mi++TumHefvjM/4/5eD/pO+ABZ0ci617XHaAAAAAElFTkSuQmCC)</a>
+<a href="https://www.youtube.com/@LateTheIdiot">
+<img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/32f6db20-9059-4dde-8353-8a294763d8a5">
+</a>
+<a href="https://discord.com/users/312042645453144064">
+<img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/7f9a6989-8c44-4a13-8127-2d63655f6246">
+</a>
+<a href="https://wasteof.money/users/late">
+<img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/5b68905f-2864-4d01-9d75-314832e5e418">
+</a>
