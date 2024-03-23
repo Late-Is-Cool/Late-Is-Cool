@@ -8,7 +8,7 @@ im currently learning C++ for game development using [raylib](https://www.raylib
 
 i am still in school and im trying my best to survive my remaining years.
 
-i use <img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/a340dbdc-aadb-4860-a108-1d74814130c0" align="center" alt="windows 10" height="14px"> for development, with WSL of course.
+i use windows 10 for development, with WSL of course.
 
 ---
 
