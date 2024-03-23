@@ -17,9 +17,9 @@ socials:
 <a href="https://www.youtube.com/@LateTheIdiot">
 <img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/32f6db20-9059-4dde-8353-8a294763d8a5">
 </a>
-<a href="https://discord.com/users/312042645453144064">
+<a href="https://wasteof.money/users/late">
 <img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/7f9a6989-8c44-4a13-8127-2d63655f6246">
 </a>
-<a href="https://wasteof.money/users/late">
+<a href="https://discord.com/users/312042645453144064">
 <img src="https://github.com/Late-Is-Cool/Late-Is-Cool/assets/78447219/5b68905f-2864-4d01-9d75-314832e5e418">
 </a>
