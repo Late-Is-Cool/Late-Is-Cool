@@ -4,7 +4,7 @@ i am a person who programs random stuff when i get the time, well i almost alway
 
 i (used to) do web development using sveltekit for a fullstack site, tailwindcss for styling, and typescript for other webby stuff.
 
-im currently learning C++ for game development using [raylib](https://www.raylib.com/) and attempt at porting them to funny thingamajigs like the 3DS, Wii, PS Vita, and other homebrewed systems i have in my possession. including systems that i actually dont own but technically do thanks to backwards compatibility with prior said systems (ex. PSP on PS Vita).
+im currently learning C/C++ for game development using [raylib](https://www.raylib.com/) and attempt at porting them to funny thingamajigs like the 3DS, Wii, PS Vita, and other homebrewed systems i have in my possession. including systems that i actually dont own but technically do thanks to backwards compatibility with prior said systems (ex. PSP on PS Vita).
 
 i am still in school and im trying my best to survive my remaining years.
 
